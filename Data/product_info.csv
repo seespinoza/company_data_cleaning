@@ -1,0 +1,800 @@
+product_id,Retailer country,Order method type,Retailer type,Product line,Product type,Product,Revenue,Quantity
+254,United States,Fax,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,59628.66,489
+728,United States,Fax,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,35950.32,252
+103,United States,Fax,Outdoors Shop,Camping Equipment,Tents,Star Dome,89940.48,147
+351,United States,Fax,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,165883.41,303
+263,United States,Fax,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,119822.2,1415
+243,United States,Fax,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,87728.96,352
+153,United States,Fax,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,41837.46,426
+312,United States,Fax,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,8268.41,577
+137,United States,Fax,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,9393.3,189
+380,United States,Fax,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,19396.5,579
+364,United States,Fax,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,6940.03,109
+933,United States,Fax,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 50,20003.2,133
+576,United States,Fax,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,14109.4,79
+191,United States,Fax,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 100,73970.22,227
+944,United States,Fax,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 200,77288.64,143
+928,United States,Fax,Outdoors Shop,Mountaineering Equipment,Safety,Granite Climbing Helmet,62464.88,898
+460,United States,Fax,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness,34154.9,559
+672,United States,Fax,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,36396.8,352
+404,United States,Fax,Outdoors Shop,Mountaineering Equipment,Safety,Granite Signal Mirror,4074.84,126
+393,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,15122.72,4022
+128,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Belay,19476.8,296
+789,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,15739.22,427
+735,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Climbing Lamp,17998.56,464
+609,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,36494,710
+288,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Rechargeable Battery,11673.6,1520
+800,United States,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Chalk Bag,4621.68,262
+682,United States,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Ice,25041.6,333
+539,United States,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Hammer,18118.38,241
+557,United States,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Shovel,9543.16,164
+645,United States,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Grip,10146.2,523
+305,United States,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Axe,32870.4,856
+509,United States,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Extreme,42563.2,566
+166,United States,Fax,Outdoors Shop,Personal Accessories,Watches,Mountain Man Extreme,6499.8,23
+122,United States,Fax,Outdoors Shop,Personal Accessories,Eyewear,Polar Sun,7015.34,116
+300,United States,Fax,Outdoors Shop,Personal Accessories,Eyewear,Polar Ice,3825.8,37
+722,United States,Fax,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,30940.25,275
+130,United States,Fax,Outdoors Shop,Personal Accessories,Knives,Bear Survival Edge,8414.75,97
+385,United States,Fax,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,38534.28,114
+696,United States,Fax,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,25010.58,3801
+712,United States,Fax,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,5718.15,1179
+520,United States,Fax,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,4057.2,180
+820,United States,Fax,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,711.28,136
+367,United States,Telephone,Golf Shop,Personal Accessories,Watches,Infinity,11000,50
+255,United States,Telephone,Golf Shop,Personal Accessories,Watches,TX,14004,72
+901,United States,Telephone,Golf Shop,Personal Accessories,Watches,Legend,13927,58
+864,United States,Telephone,Golf Shop,Personal Accessories,Watches,Kodiak,7939.8,66
+353,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Capri,10838.9,283
+600,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Cat Eye,4428.85,101
+158,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Dante,9759.75,231
+902,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Fairway,8241.35,409
+935,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Inferno,12935,199
+687,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Maximus,9325,113
+521,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Trendi,9104.3,181
+214,United States,Telephone,Golf Shop,Personal Accessories,Eyewear,Zone,4574.3,149
+723,United States,Telephone,Golf Shop,Personal Accessories,Knives,Max Gizmo,7640,200
+541,United States,Telephone,Golf Shop,Personal Accessories,Knives,Pocket Gizmo,866.2,71
+192,United States,Telephone,Golf Shop,Personal Accessories,Binoculars,Ranger Vision,7520,47
+883,United States,Telephone,Golf Shop,Personal Accessories,Navigation,Trail Master,1095,3
+550,United States,Telephone,Golf Shop,Golf Equipment,Irons,Hailstorm Steel Irons,28434.48,72
+352,United States,Telephone,Golf Shop,Golf Equipment,Irons,Hailstorm Titanium Irons,65461.5,75
+739,United States,Telephone,Golf Shop,Golf Equipment,Irons,Lady Hailstorm Steel Irons,16025.28,32
+794,United States,Telephone,Golf Shop,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,54319.2,65
+486,United States,Telephone,Golf Shop,Golf Equipment,Woods,Hailstorm Titanium Woods Set,106338.98,89
+363,United States,Telephone,Golf Shop,Golf Equipment,Woods,Hailstorm Steel Woods Set,30095.04,44
+273,United States,Telephone,Golf Shop,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,34509.78,27
+840,United States,Telephone,Golf Shop,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,53082.54,62
+219,United States,Telephone,Golf Shop,Golf Equipment,Putters,Course Pro Putter,25215.25,349
+260,United States,Telephone,Golf Shop,Golf Equipment,Putters,Blue Steel Putter,9477.16,112
+961,United States,Telephone,Golf Shop,Golf Equipment,Putters,Blue Steel Max Putter,40070.44,236
+954,United States,Telephone,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,4693.5,471
+345,United States,Telephone,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Umbrella,5911.05,492
+190,United States,Telephone,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Golf Bag,8611.89,42
+333,United States,Telephone,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Gloves,10778.92,1637
+957,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,18092.51,2063
+391,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,82254.08,3592
+895,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,21434.73,6134
+515,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,70400.88,1331
+427,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,77066.08,632
+371,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,22593.6,360
+155,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,138711.56,17492
+382,United States,Telephone,Department Store,Camping Equipment,Cooking Gear,TrailChef Utensils,11394.39,609
+994,United States,Telephone,Department Store,Camping Equipment,Tents,Star Dome,243512.32,398
+923,United States,Telephone,Department Store,Camping Equipment,Tents,Star Gazer 2,165335.94,302
+778,United States,Telephone,Department Store,Camping Equipment,Tents,Star Gazer 6,134690.2,172
+656,United States,Telephone,Department Store,Camping Equipment,Tents,Star Peg,2258,1129
+271,United States,Telephone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,50892.68,601
+197,United States,Telephone,Department Store,Camping Equipment,Sleeping Bags,Hibernator,160103.2,1160
+177,United States,Telephone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,66514.28,556
+702,United States,Telephone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,16205.73,411
+875,United States,Telephone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,33520.42,2475
+891,United States,Telephone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,150163.09,1529
+717,United States,Telephone,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,69788.49,951
+231,United States,Telephone,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,417084.48,1552
+847,United States,Telephone,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,235660.36,676
+109,United States,Telephone,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,53822.16,1652
+502,United States,Telephone,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,26806.92,388
+335,United States,Telephone,Department Store,Camping Equipment,Lanterns,Firefly Lite,9873.37,689
+157,United States,Telephone,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,32079.56,2027
+452,United States,Telephone,Department Store,Camping Equipment,Lanterns,Firefly 2,76660.11,2899
+205,United States,Telephone,Department Store,Camping Equipment,Lanterns,Firefly 4,9751.3,338
+659,United States,Telephone,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,39785.31,1536
+759,United States,Telephone,Department Store,Camping Equipment,Lanterns,EverGlow Single,20200.5,603
+175,United States,Telephone,Department Store,Camping Equipment,Lanterns,EverGlow Double,8075.38,158
+264,United States,Telephone,Department Store,Camping Equipment,Lanterns,EverGlow Butane,24321.94,382
+471,United States,Telephone,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,105021.54,3903
+447,United States,Telephone,Department Store,Personal Accessories,Watches,Mountain Man Analog,28066.72,592
+286,United States,Telephone,Department Store,Personal Accessories,Watches,Mountain Man Digital,16598.54,476
+311,United States,Telephone,Department Store,Personal Accessories,Watches,Mountain Man Deluxe,7819.32,102
+583,United States,Telephone,Department Store,Personal Accessories,Watches,Mountain Man Combination,5551.31,59
+622,United States,Telephone,Department Store,Personal Accessories,Watches,Venue,57894,801
+512,United States,Telephone,Department Store,Personal Accessories,Watches,Infinity,11000,50
+940,United States,Telephone,Department Store,Personal Accessories,Watches,Lux,20148.8,122
+931,United States,Telephone,Department Store,Personal Accessories,Watches,TX,94764,498
+141,United States,Telephone,Department Store,Personal Accessories,Watches,Legend,82923,325
+584,United States,Telephone,Department Store,Personal Accessories,Watches,Kodiak,24446.1,202
+290,United States,Telephone,Department Store,Personal Accessories,Eyewear,Polar Sun,25787.7,426
+244,United States,Telephone,Department Store,Personal Accessories,Eyewear,Polar Ice,20835.1,200
+202,United States,Telephone,Department Store,Personal Accessories,Eyewear,Polar Sports,10265.26,89
+989,United States,Telephone,Department Store,Personal Accessories,Eyewear,Polar Wave,5012.47,53
+816,United States,Telephone,Department Store,Personal Accessories,Eyewear,Bella,8977.5,133
+829,United States,Telephone,Department Store,Personal Accessories,Eyewear,Capri,40942.7,1069
+528,United States,Telephone,Department Store,Personal Accessories,Eyewear,Cat Eye,29721.2,1109
+402,United States,Telephone,Department Store,Personal Accessories,Eyewear,Dante,41852.45,957
+888,United States,Telephone,Department Store,Personal Accessories,Eyewear,Fairway,36209.55,1797
+984,United States,Telephone,Department Store,Personal Accessories,Eyewear,Inferno,37830,582
+695,United States,Telephone,Department Store,Personal Accessories,Eyewear,Maximus,45965,566
+594,United States,Telephone,Department Store,Personal Accessories,Eyewear,Trendi,21478.1,427
+801,United States,Telephone,Department Store,Personal Accessories,Eyewear,Zone,134472.6,4401
+590,United States,Telephone,Department Store,Personal Accessories,Eyewear,Hawk Eye,8100,200
+267,United States,Telephone,Department Store,Personal Accessories,Knives,Bear Survival Edge,13148.23,150
+473,United States,Telephone,Department Store,Personal Accessories,Knives,Max Gizmo,20780.8,544
+932,United States,Telephone,Department Store,Personal Accessories,Knives,Pocket Gizmo,10675,875
+143,United States,Telephone,Department Store,Personal Accessories,Binoculars,Seeker 35,62746.98,634
+781,United States,Telephone,Department Store,Personal Accessories,Binoculars,Seeker 50,86477.16,686
+939,United States,Telephone,Department Store,Personal Accessories,Binoculars,Opera Vision,15180,138
+206,United States,Telephone,Department Store,Personal Accessories,Binoculars,Ranger Vision,14720,92
+676,United States,Telephone,Department Store,Personal Accessories,Navigation,Glacier Basic,70560.39,2257
+184,United States,Telephone,Department Store,Personal Accessories,Navigation,Glacier GPS,38515.23,351
+674,United States,Telephone,Department Store,Personal Accessories,Navigation,Trail Scout,9758,41
+938,United States,Telephone,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,15770.85,2661
+770,United States,Telephone,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,19841.22,2865
+314,United States,Telephone,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,31651.62,4637
+476,United States,Telephone,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,9600,2000
+496,United States,Telephone,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,15681.6,3267
+691,United States,Telephone,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,37185.25,7865
+537,United States,Telephone,Department Store,Outdoor Protection,Sunscreen,Sun Shield,11871.24,2034
+121,United States,Telephone,Department Store,Outdoor Protection,First Aid,Compact Relief Kit,3223.22,143
+168,United States,Telephone,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,33600,988
+475,United States,Telephone,Department Store,Outdoor Protection,First Aid,Calamine Relief,1410,235
+604,United States,Telephone,Department Store,Outdoor Protection,First Aid,Aloe Relief,2991.56,572
+831,United States,Telephone,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2550,425
+146,United States,Telephone,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,251088.26,691
+169,United States,Telephone,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,166262.28,332
+681,United States,Telephone,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,384143.28,559
+533,United States,Telephone,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,109589.76,128
+726,United States,Telephone,Department Store,Golf Equipment,Putters,Course Pro Putter,247817.5,3430
+710,United States,Telephone,Department Store,Golf Equipment,Putters,Blue Steel Putter,120795.44,1420
+905,United States,Telephone,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,34097.88,3433
+529,United States,Telephone,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,46281.09,3890
+354,United States,Telephone,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,40807.13,202
+833,United States,Telephone,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,14307.48,1386
+664,United States,Telephone,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,135565,2610
+332,United States,Telephone,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,174983.9,1435
+188,United States,Telephone,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Utensils,54387.11,2973
+113,United States,Telephone,Warehouse Store,Camping Equipment,Tents,Star Lite,1210413.68,3479
+413,United States,Telephone,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,603311.94,1102
+616,United States,Telephone,Warehouse Store,Camping Equipment,Tents,Star Gazer 3,364026.52,572
+704,United States,Telephone,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Extreme,348672.77,1399
+661,United States,Telephone,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,42652.74,2762
+924,United States,Telephone,Warehouse Store,Camping Equipment,Lanterns,Firefly Extreme,32205.6,648
+683,United States,Telephone,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,49176.28,1483
+186,United States,Telephone,Warehouse Store,Personal Accessories,Knives,Single Edge,145573.21,12121
+381,United States,Telephone,Warehouse Store,Personal Accessories,Knives,Double Edge,38931.57,2448
+421,United States,Telephone,Warehouse Store,Personal Accessories,Knives,Bear Edge,37335.7,957
+247,United States,Telephone,Warehouse Store,Personal Accessories,Navigation,Glacier Deluxe,96814.2,1068
+630,United States,Telephone,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,52686.84,9305
+867,United States,Telephone,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,14711,3130
+748,United States,Telephone,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,55264.8,11690
+709,United States,Telephone,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,27915.18,4906
+282,United States,Telephone,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,14425.6,640
+890,United States,Telephone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,33006.2,8356
+765,United States,Telephone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,20457.74,886
+974,United States,Telephone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,5207.85,1467
+707,United States,Telephone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,34238.4,240
+884,United States,Telephone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,24909.4,1345
+741,United States,Telephone,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,54957.32,649
+898,United States,Telephone,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,77759.76,312
+592,United States,Telephone,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,55842.81,129
+140,United States,Telephone,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,36548.61,529
+824,United States,Telephone,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,8741.3,610
+176,United States,Telephone,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,11992.2,759
+388,United States,Telephone,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,10079.92,326
+514,United States,Telephone,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,7958.75,125
+818,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 50,20905.6,139
+480,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 200,32969.28,61
+651,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Safety,Granite Climbing Helmet,63230.04,909
+997,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness,34949.2,572
+991,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,44875.6,434
+916,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Safety,Granite Signal Mirror,4074.84,126
+960,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,28722.64,7639
+567,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Belay,39216.8,596
+171,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,19881.6,545
+307,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Climbing Lamp,9658.71,249
+451,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,17784.4,346
+772,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Rechargeable Battery,11857.92,1544
+900,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Chalk Bag,4692.24,266
+378,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Ice,28952,385
+706,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Hammer,19321.26,257
+361,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Shovel,10416.01,179
+628,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Grip,9816.4,506
+618,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Axe,30912,805
+711,United States,Telephone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Extreme,89788.8,1194
+401,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Mountain Man Analog,4694.2,98
+201,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Mountain Man Combination,5551.31,59
+142,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Venue,39416,548
+266,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Infinity,18860,84
+399,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Lux,16692.8,98
+918,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Sam,13380.2,298
+921,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,TX,66232,351
+374,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Legend,59893.6,232
+608,United States,Telephone,Outdoors Shop,Personal Accessories,Watches,Kodiak,23066.5,189
+561,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Polar Extreme,2179.95,15
+851,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Bella,1080,16
+301,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Capri,2374.6,62
+397,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Cat Eye,55922.7,1864
+423,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Dante,32228.95,751
+899,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Fairway,11646.7,578
+967,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Maximus,31510,387
+595,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Trendi,28017.1,557
+318,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Zone,86166.9,2802
+937,United States,Telephone,Outdoors Shop,Personal Accessories,Eyewear,Hawk Eye,4293,106
+640,United States,Telephone,Outdoors Shop,Personal Accessories,Knives,Max Gizmo,9206.2,241
+493,United States,Telephone,Outdoors Shop,Personal Accessories,Knives,Pocket Gizmo,11260.6,923
+357,United States,Telephone,Outdoors Shop,Personal Accessories,Binoculars,Seeker Extreme,13908.51,81
+358,United States,Telephone,Outdoors Shop,Personal Accessories,Binoculars,Seeker Mini,9812.46,122
+420,United States,Telephone,Outdoors Shop,Personal Accessories,Binoculars,Opera Vision,6160,56
+623,United States,Telephone,Outdoors Shop,Personal Accessories,Binoculars,Ranger Vision,11040,69
+673,United States,Telephone,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS,38624.96,352
+250,United States,Telephone,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,39548.34,117
+498,United States,Telephone,Outdoors Shop,Personal Accessories,Navigation,Trail Master,22995,63
+478,United States,Telephone,Outdoors Shop,Personal Accessories,Navigation,Trail Scout,5950,25
+819,United States,Telephone,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,22891.82,3479
+839,United States,Telephone,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,13352.7,2841
+245,United States,Telephone,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,3448.62,153
+757,United States,Telephone,Eyewear Store,Personal Accessories,Watches,Mountain Man Analog,34087.79,719
+221,United States,Telephone,Eyewear Store,Personal Accessories,Eyewear,Polar Sun,39812.66,668
+136,United States,Telephone,Eyewear Store,Personal Accessories,Eyewear,Polar Ice,25908.3,249
+686,United States,Telephone,Eyewear Store,Personal Accessories,Eyewear,Polar Sports,19377.12,168
+747,United States,Telephone,Eyewear Store,Personal Accessories,Eyewear,Polar Wave,7590.51,81
+860,United States,Telephone,Eyewear Store,Personal Accessories,Eyewear,Polar Extreme,4795.89,33
+419,United States,Telephone,Eyewear Store,Personal Accessories,Binoculars,Seeker 35,29196.15,295
+161,United States,Telephone,Eyewear Store,Personal Accessories,Binoculars,Seeker Extreme,14423.64,84
+749,United States,Telephone,Eyewear Store,Personal Accessories,Navigation,Glacier GPS,40270.91,367
+563,United States,Telephone,Sports Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,17938.62,2898
+811,United States,Telephone,Sports Store,Camping Equipment,Cooking Gear,TrailChef Canteen,35980.74,3382
+403,United States,Telephone,Sports Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,190288.32,3032
+670,United States,Telephone,Sports Store,Camping Equipment,Cooking Gear,TrailChef Utensils,5688.9,301
+209,United States,Telephone,Sports Store,Camping Equipment,Tents,Star Lite,189268.48,544
+536,United States,Telephone,Sports Store,Camping Equipment,Tents,Star Gazer 2,182854.98,334
+786,United States,Telephone,Sports Store,Camping Equipment,Tents,Star Gazer 3,170557.88,268
+359,United States,Telephone,Sports Store,Camping Equipment,Tents,Star Gazer 6,31278.8,40
+700,United States,Telephone,Sports Store,Camping Equipment,Tents,Star Peg,4802,2450
+234,United States,Telephone,Sports Store,Camping Equipment,Sleeping Bags,Hibernator,145611.1,1055
+773,United States,Telephone,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,54312.02,454
+667,United States,Telephone,Sports Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,6840.54,89
+746,United States,Telephone,Sports Store,Camping Equipment,Packs,Canyon Mule Extreme Backpack,63634.83,147
+715,United States,Telephone,Sports Store,Camping Equipment,Packs,Canyon Mule Cooler,27269.46,837
+862,United States,Telephone,Sports Store,Camping Equipment,Packs,Canyon Mule Carryall,31988.67,463
+162,United States,Telephone,Sports Store,Camping Equipment,Lanterns,Firefly 4,18109.95,769
+617,United States,Telephone,Sports Store,Camping Equipment,Lanterns,Firefly Extreme,8946,180
+518,United States,Telephone,Sports Store,Camping Equipment,Lanterns,EverGlow Kerosene,9183.24,297
+625,United States,Telephone,Sports Store,Camping Equipment,Lanterns,EverGlow Butane,8022.42,126
+732,United States,Telephone,Sports Store,Camping Equipment,Lanterns,EverGlow Lamp,25684.96,952
+297,United States,Telephone,Sports Store,Camping Equipment,Lanterns,Flicker Lantern,7148.4,210
+223,United States,Telephone,Sports Store,Personal Accessories,Watches,Mountain Man Analog,5831.43,123
+896,United States,Telephone,Sports Store,Personal Accessories,Watches,Mountain Man Digital,2592.57,89
+873,United States,Telephone,Sports Store,Personal Accessories,Watches,Mountain Man Combination,5645.4,60
+849,United States,Telephone,Sports Store,Personal Accessories,Watches,Mountain Man Extreme,13564.8,48
+462,United States,Telephone,Sports Store,Personal Accessories,Watches,Venue,7140,102
+580,United States,Telephone,Sports Store,Personal Accessories,Watches,Infinity,7260,33
+680,United States,Telephone,Sports Store,Personal Accessories,Watches,Lux,8192.8,49
+668,United States,Telephone,Sports Store,Personal Accessories,Watches,Sam,7453.4,166
+304,United States,Telephone,Sports Store,Personal Accessories,Watches,TX,27636,144
+295,United States,Telephone,Sports Store,Personal Accessories,Watches,Legend,18596.6,71
+309,United States,Telephone,Sports Store,Personal Accessories,Watches,Kodiak,12685.8,104
+492,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Polar Sun,17360.42,288
+368,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Polar Ice,4032.6,39
+436,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Bella,7762.5,115
+225,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Capri,8732.4,228
+791,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Cat Eye,22337.45,614
+570,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Dante,30631.5,718
+329,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Inferno,7670,118
+764,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Zone,35687.9,1169
+328,United States,Telephone,Sports Store,Personal Accessories,Eyewear,Hawk Eye,7290,180
+456,United States,Telephone,Sports Store,Personal Accessories,Knives,Double Edge,42436.68,2643
+248,United States,Telephone,Sports Store,Personal Accessories,Knives,Edge Extreme,29252.6,260
+249,United States,Telephone,Sports Store,Personal Accessories,Knives,Bear Edge,24837.6,632
+725,United States,Telephone,Sports Store,Personal Accessories,Knives,Bear Survival Edge,6593,76
+409,United States,Telephone,Sports Store,Personal Accessories,Knives,Pocket Gizmo,3623.4,297
+315,United States,Telephone,Sports Store,Personal Accessories,Binoculars,Seeker 35,26721.9,270
+799,United States,Telephone,Sports Store,Personal Accessories,Binoculars,Seeker Mini,34745.76,432
+685,United States,Telephone,Sports Store,Personal Accessories,Binoculars,Ranger Vision,7200,45
+428,United States,Telephone,Sports Store,Personal Accessories,Navigation,Glacier Basic,55322.82,1743
+472,United States,Telephone,Sports Store,Personal Accessories,Navigation,Trail Master,8760,24
+915,United States,Telephone,Sports Store,Personal Accessories,Navigation,Trail Scout,8330,35
+721,United States,Telephone,Sports Store,Outdoor Protection,Insect Repellents,BugShield Spray,5577.83,947
+474,United States,Telephone,Sports Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,6503.85,1341
+865,United States,Telephone,Sports Store,Outdoor Protection,Sunscreen,Sun Shelter 30,14814.4,3152
+626,United States,Telephone,Sports Store,Outdoor Protection,First Aid,Calamine Relief,618,103
+220,United States,Telephone,Sports Store,Outdoor Protection,First Aid,Insect Bite Relief,276,46
+981,United States,Telephone,Sports Store,Golf Equipment,Irons,Hailstorm Steel Irons,48967.42,113
+942,United States,Telephone,Sports Store,Golf Equipment,Irons,Hailstorm Titanium Irons,73316.88,84
+253,United States,Telephone,Sports Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,56826.24,68
+446,United States,Telephone,Sports Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,63461.28,97
+337,United States,Telephone,Sports Store,Golf Equipment,Putters,Blue Steel Putter,23777.55,285
+785,United States,Telephone,Sports Store,Golf Equipment,Putters,Blue Steel Max Putter,40579.81,239
+310,United States,Telephone,Sports Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,9979.44,1060
+566,United States,Telephone,Sports Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,13173.3,1164
+855,United States,Telephone,Sports Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,28456.27,142
+508,United States,Mail,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,11839.5,1350
+806,United States,Mail,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,40133.73,5061
+611,United States,Mail,Department Store,Camping Equipment,Tents,Star Dome,100341.76,164
+946,United States,Mail,Department Store,Camping Equipment,Tents,Star Peg,4617.76,2356
+132,United States,Mail,Department Store,Camping Equipment,Sleeping Bags,Hibernator,67767.82,491
+189,United States,Mail,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,83040.66,309
+978,United States,Mail,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,97262.19,279
+662,United States,Mail,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,26357.22,809
+356,United States,Mail,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,12671.6,802
+425,United States,Mail,Department Store,Camping Equipment,Lanterns,Firefly 2,12873.6,480
+568,United States,Mail,Department Store,Camping Equipment,Lanterns,Firefly 4,8424.2,292
+893,United States,Mail,Department Store,Personal Accessories,Watches,Mountain Man Analog,6068.48,128
+535,United States,Mail,Department Store,Personal Accessories,Watches,Mountain Man Deluxe,7742.66,101
+259,United States,Mail,Department Store,Personal Accessories,Navigation,Glacier GPS,39173.61,357
+795,United States,Mail,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,3491.74,509
+877,United States,Mail,Department Store,Outdoor Protection,Sunscreen,Sun Shield,7356.48,1264
+904,United States,Mail,Department Store,Outdoor Protection,First Aid,Aloe Relief,711.28,136
+844,United States,Mail,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,87322.62,237
+117,United States,Mail,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,33052.14,66
+111,United States,Mail,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,128801.76,188
+912,United States,Mail,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,46233.18,54
+406,United States,Mail,Department Store,Golf Equipment,Putters,Course Pro Putter,108158.25,1497
+430,United States,Mail,Department Store,Golf Equipment,Putters,Blue Steel Putter,25601.62,298
+856,United States,Mail,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,9907.2,960
+516,United States,Mail,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,12435.3,1011
+990,United States,Mail,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,20407.86,99
+239,United States,Mail,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,5828.79,561
+296,United States,Mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,35850.2,9076
+733,United States,Mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,65359.84,536
+720,United States,Mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,39516.82,277
+660,United States,Mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,6237,330
+793,United States,Mail,Outdoors Shop,Camping Equipment,Tents,Star Lite,157607.76,453
+410,United States,Mail,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,82744.36,332
+466,United States,Mail,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,14510.24,368
+690,United States,Mail,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,57574.37,133
+745,United States,Mail,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 50,22108.8,147
+821,United States,Mail,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,29647.6,166
+469,United States,Mail,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 100,81790.86,251
+441,United States,Mail,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 200,75126.72,139
+742,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,15987.52,4252
+511,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Belay,20595.4,313
+340,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,16623.86,451
+588,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Climbing Lamp,8999.28,232
+501,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,20097.4,391
+217,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Rechargeable Battery,11500.32,1482
+678,United States,Mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Chalk Bag,4163.04,236
+287,United States,Mail,Outdoors Shop,Mountaineering Equipment,Tools,Granite Grip,21010.2,1083
+788,United States,Mail,Outdoors Shop,Mountaineering Equipment,Tools,Granite Axe,94907.2,2506
+507,United States,Mail,Outdoors Shop,Mountaineering Equipment,Tools,Granite Extreme,143481.6,1908
+718,United States,Mail,Outdoors Shop,Personal Accessories,Eyewear,Polar Sun,5429.36,92
+880,United States,Mail,Outdoors Shop,Personal Accessories,Eyewear,Polar Sports,8650.5,75
+966,United States,Mail,Outdoors Shop,Personal Accessories,Eyewear,Polar Extreme,1993.18,14
+761,United States,Mail,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,64018.19,569
+866,United States,Mail,Outdoors Shop,Personal Accessories,Binoculars,Seeker Extreme,14423.64,84
+543,United States,Mail,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS,40929.29,373
+491,United States,Mail,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,83828.96,248
+454,United States,Mail,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,3457.44,504
+517,United States,Mail,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,49152.6,7470
+593,United States,Mail,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,7129.5,1225
+823,United States,Mail,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,3967.04,176
+953,United States,Mail,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,695.59,133
+983,United States,Mail,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,756,126
+575,United States,Mail,Eyewear Store,Personal Accessories,Watches,Mountain Man Analog,5508.5,115
+963,United States,Mail,Eyewear Store,Personal Accessories,Eyewear,Polar Sun,6814.64,111
+343,United States,Mail,Eyewear Store,Personal Accessories,Eyewear,Polar Ice,3366,31
+317,United States,Mail,Eyewear Store,Personal Accessories,Eyewear,Polar Sports,5190.3,45
+118,United States,Mail,Eyewear Store,Personal Accessories,Eyewear,Polar Wave,1243.06,13
+241,United States,Mail,Eyewear Store,Personal Accessories,Binoculars,Seeker 35,12866.1,130
+145,United States,Web,Golf Shop,Personal Accessories,Watches,Venue,41596,574
+211,United States,Web,Golf Shop,Personal Accessories,Watches,Infinity,28460,126
+797,United States,Web,Golf Shop,Personal Accessories,Watches,Lux,8360,50
+289,United States,Web,Golf Shop,Personal Accessories,Watches,Sam,7543.2,168
+235,United States,Web,Golf Shop,Personal Accessories,Watches,TX,98512,513
+127,United States,Web,Golf Shop,Personal Accessories,Watches,Legend,42818.2,166
+562,United States,Web,Golf Shop,Personal Accessories,Watches,Kodiak,23891,189
+179,United States,Web,Golf Shop,Personal Accessories,Eyewear,Bella,14985,222
+977,United States,Web,Golf Shop,Personal Accessories,Eyewear,Capri,26120.6,682
+242,United States,Web,Golf Shop,Personal Accessories,Eyewear,Cat Eye,95650.35,3048
+120,United States,Web,Golf Shop,Personal Accessories,Eyewear,Dante,62242.35,1451
+612,United States,Web,Golf Shop,Personal Accessories,Eyewear,Fairway,29237.65,1451
+832,United States,Web,Golf Shop,Personal Accessories,Eyewear,Inferno,44576.45,700
+125,United States,Web,Golf Shop,Personal Accessories,Eyewear,Maximus,45915,570
+643,United States,Web,Golf Shop,Personal Accessories,Eyewear,Trendi,21578.7,429
+530,United States,Web,Golf Shop,Personal Accessories,Eyewear,Zone,70464.7,2302
+124,United States,Web,Golf Shop,Personal Accessories,Eyewear,Hawk Eye,29484,728
+835,United States,Web,Golf Shop,Personal Accessories,Knives,Max Gizmo,12262.2,321
+848,United States,Web,Golf Shop,Personal Accessories,Knives,Pocket Gizmo,16811.6,1378
+455,United States,Web,Golf Shop,Personal Accessories,Binoculars,Opera Vision,15070,137
+621,United States,Web,Golf Shop,Personal Accessories,Binoculars,Ranger Vision,31520,197
+306,United States,Web,Golf Shop,Personal Accessories,Navigation,Trail Master,27740,76
+411,United States,Web,Golf Shop,Golf Equipment,Irons,Hailstorm Steel Irons,34233.86,79
+542,United States,Web,Golf Shop,Golf Equipment,Irons,Hailstorm Titanium Irons,198130.14,227
+698,United States,Web,Golf Shop,Golf Equipment,Irons,Lady Hailstorm Steel Irons,64601.91,129
+751,United States,Web,Golf Shop,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,228140.64,273
+754,United States,Web,Golf Shop,Golf Equipment,Woods,Hailstorm Titanium Woods Set,314237.66,263
+606,United States,Web,Golf Shop,Golf Equipment,Woods,Hailstorm Steel Woods Set,44488.32,68
+285,United States,Web,Golf Shop,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,131648.42,103
+871,United States,Web,Golf Shop,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,212330.16,248
+869,United States,Web,Golf Shop,Golf Equipment,Putters,Course Pro Putter,62062.75,859
+755,United States,Web,Golf Shop,Golf Equipment,Putters,Blue Steel Max Putter,141774.65,835
+605,United States,Web,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,18689.52,1811
+210,United States,Web,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Umbrella,24046.22,1945
+322,United States,Web,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Golf Bag,10719.28,52
+663,United States,Web,Golf Shop,Golf Equipment,Golf Accessories,Course Pro Gloves,45097.79,6825
+737,United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,10651.66,3018
+355,United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,45031.42,854
+163,United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,44685.12,712
+634,United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,36002.2,4540
+650,United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,78197,100
+917,United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,16008.58,406
+943,United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,6920,400
+346,United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,30936.15,315
+100,United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,6763.68,88
+677,United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,84653.1,315
+196,United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,89941.38,258
+842,United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,8898.93,621
+438,United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,29098.8,1096
+485,United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,7386.84,284
+598,United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2555.5,50
+513,United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Kerosene,9677.96,313
+813,United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,7385.72,116
+965,United States,Web,Department Store,Personal Accessories,Watches,Mountain Man Analog,7301.14,154
+914,United States,Web,Department Store,Personal Accessories,Watches,Mountain Man Digital,6962.68,197
+805,United States,Web,Department Store,Personal Accessories,Watches,Mountain Man Deluxe,9122.54,119
+843,United States,Web,Department Store,Personal Accessories,Watches,Venue,116368,1618
+675,United States,Web,Department Store,Personal Accessories,Watches,Infinity,97400,416
+768,United States,Web,Department Store,Personal Accessories,Watches,Lux,7858.4,47
+463,United States,Web,Department Store,Personal Accessories,Watches,Sam,12976.1,289
+776,United States,Web,Department Store,Personal Accessories,Watches,TX,247928,1323
+444,United States,Web,Department Store,Personal Accessories,Watches,Legend,212125.8,852
+724,United States,Web,Department Store,Personal Accessories,Watches,Kodiak,84741.1,677
+459,United States,Web,Department Store,Personal Accessories,Eyewear,Polar Sun,7849.02,129
+951,United States,Web,Department Store,Personal Accessories,Eyewear,Polar Ice,6279.9,60
+519,United States,Web,Department Store,Personal Accessories,Eyewear,Bella,34087.5,505
+874,United States,Web,Department Store,Personal Accessories,Eyewear,Capri,82459.9,2153
+596,United States,Web,Department Store,Personal Accessories,Eyewear,Cat Eye,105837.2,3827
+986,United States,Web,Department Store,Personal Accessories,Eyewear,Dante,193513.9,4478
+173,United States,Web,Department Store,Personal Accessories,Eyewear,Fairway,42919.5,2130
+760,United States,Web,Department Store,Personal Accessories,Eyewear,Inferno,83231.1,1294
+376,United States,Web,Department Store,Personal Accessories,Eyewear,Maximus,56055,694
+553,United States,Web,Department Store,Personal Accessories,Eyewear,Trendi,89785.5,1785
+636,United States,Web,Department Store,Personal Accessories,Eyewear,Zone,167460.5,5420
+958,United States,Web,Department Store,Personal Accessories,Eyewear,Hawk Eye,29929.5,739
+477,United States,Web,Department Store,Personal Accessories,Knives,Double Edge,11895.18,737
+251,United States,Web,Department Store,Personal Accessories,Knives,Max Gizmo,21162.8,554
+258,United States,Web,Department Store,Personal Accessories,Knives,Pocket Gizmo,34038,2790
+133,United States,Web,Department Store,Personal Accessories,Binoculars,Opera Vision,14630,133
+488,United States,Web,Department Store,Personal Accessories,Binoculars,Ranger Vision,35040,219
+886,United States,Web,Department Store,Personal Accessories,Navigation,Glacier Basic,28375.56,894
+892,United States,Web,Department Store,Personal Accessories,Navigation,Glacier Deluxe,12147.1,134
+180,United States,Web,Department Store,Personal Accessories,Navigation,Trail Master,39420,108
+151,United States,Web,Department Store,Personal Accessories,Navigation,Trail Scout,44744,188
+982,United States,Web,Department Store,Personal Accessories,Navigation,Trail Star,70686,459
+907,United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,6726.16,971
+252,United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,13335.84,1944
+330,United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,4591.3,937
+218,United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,7516.8,1566
+992,United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,14419.6,3068
+962,United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,11610.9,342
+112,United States,Web,Department Store,Outdoor Protection,First Aid,Calamine Relief,720,120
+321,United States,Web,Department Store,Outdoor Protection,First Aid,Aloe Relief,779.27,149
+187,United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,30767.14,83
+487,United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,130050.18,149
+692,United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,65102.7,130
+922,United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,112816.8,135
+503,United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,217457.24,182
+934,United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,56264.64,83
+853,United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,66463.28,52
+185,United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,107877.42,126
+386,United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,56571.75,783
+224,United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,25696.19,305
+183,United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,89139.75,525
+578,United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,9081.6,880
+104,United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,12144.11,977
+467,United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,22146.65,3352
+738,United States,Web,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,20896.45,905
+948,United States,Web,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,52068.38,427
+582,United States,Web,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Single Flame,44685.12,712
+429,United States,Web,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Utensils,22316.6,1205
+150,United States,Web,Direct Marketing,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,47373.48,396
+292,United States,Web,Direct Marketing,Camping Equipment,Sleeping Bags,Hibernator Pad,15693.14,398
+336,United States,Web,Direct Marketing,Camping Equipment,Packs,Canyon Mule Weekender Backpack,72291.06,269
+987,United States,Web,Direct Marketing,Camping Equipment,Lanterns,Firefly Mapreader,11344.4,718
+766,United States,Web,Direct Marketing,Camping Equipment,Lanterns,Firefly Multi-light,12952.98,498
+911,United States,Web,Direct Marketing,Outdoor Protection,Insect Repellents,BugShield Spray,10637.34,1806
+906,United States,Web,Direct Marketing,Outdoor Protection,Sunscreen,Sun Shield,6774.48,1164
+792,United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,19195.5,573
+212,United States,Web,Warehouse Store,Personal Accessories,Eyewear,Maximus,90150,1803
+106,United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,8142.18,1399
+762,United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,5684.2,1172
+777,United States,Web,Equipment Rental Store,Camping Equipment,Cooking Gear,TrailChef Kettle,39158.34,4938
+727,United States,Web,Equipment Rental Store,Camping Equipment,Tents,Star Gazer 6,17386.38,22
+614,United States,Web,Equipment Rental Store,Camping Equipment,Sleeping Bags,Hibernator Lite,54025.84,638
+597,United States,Web,Equipment Rental Store,Camping Equipment,Sleeping Bags,Hibernator,34919.06,253
+714,United States,Web,Equipment Rental Store,Camping Equipment,Sleeping Bags,Hibernator Pad,61223.73,1559
+771,United States,Web,Equipment Rental Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,4004.64,324
+439,United States,Web,Equipment Rental Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,154470.42,2135
+679,United States,Web,Equipment Rental Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,47759.57,137
+394,United States,Web,Equipment Rental Store,Camping Equipment,Packs,Canyon Mule Cooler,12937.56,393
+102,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,Firefly 2,6490.44,242
+418,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,Firefly 4,4240.95,147
+227,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,EverGlow Single,8902.55,263
+323,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,EverGlow Double,11063.68,216
+784,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,EverGlow Butane,3511.08,54
+560,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,EverGlow Lamp,36128.19,1335
+505,United States,Web,Equipment Rental Store,Camping Equipment,Lanterns,Flicker Lantern,2854.37,83
+538,United States,Web,Equipment Rental Store,Mountaineering Equipment,Rope,Husky Rope 50,74598.4,496
+115,United States,Web,Equipment Rental Store,Personal Accessories,Watches,Mountain Man Analog,3305.1,69
+408,United States,Web,Equipment Rental Store,Personal Accessories,Watches,Mountain Man Digital,1369.11,47
+834,United States,Web,Equipment Rental Store,Personal Accessories,Watches,Mountain Man Deluxe,4227.66,54
+265,United States,Web,Equipment Rental Store,Outdoor Protection,Insect Repellents,BugShield Natural,28976.88,5022
+182,United States,Web,Equipment Rental Store,Outdoor Protection,First Aid,Insect Bite Relief,1026,171
+110,United States,Web,Equipment Rental Store,Golf Equipment,Irons,Hailstorm Steel Irons,15489.6,48
+601,United States,Web,Equipment Rental Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,33408,48
+658,United States,Web,Equipment Rental Store,Golf Equipment,Putters,Course Pro Putter,25576.5,354
+222,United States,Web,Equipment Rental Store,Golf Equipment,Putters,Blue Steel Putter,4260,48
+547,United States,Web,Equipment Rental Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,20201.72,98
+237,United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,58695.92,13956
+671,United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,7475.66,2098
+199,United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,60726.12,498
+872,United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,21212.88,338
+236,United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,36663.62,257
+632,United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,81772.72,7315
+684,United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,39157.76,64
+703,United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,312057.9,570
+774,United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,11423.44,5807
+159,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,111438.88,1316
+653,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,66663.66,483
+881,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,168977.94,678
+278,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,25361.56,212
+417,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,7452.27,189
+972,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,3979.92,322
+302,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,69238.05,705
+461,United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,59028.25,817
+837,United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,109521.17,253
+571,United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,25054.02,769
+204,United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,16581.6,240
+780,United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,38649.63,2702
+499,United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,17085.28,342
+339,United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,9037.95,267
+195,United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,19238.92,301
+993,United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,11962.75,439
+497,United States,Web,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 50,63168,420
+544,United States,Web,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,63403,355
+160,United States,Web,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 100,96454.56,296
+208,United States,Web,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 200,54760.98,101
+230,United States,Web,Outdoors Shop,Mountaineering Equipment,Safety,Granite Climbing Helmet,82219.92,1182
+731,United States,Web,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness,25356.5,415
+713,United States,Web,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,137832.2,1333
+689,United States,Web,Outdoors Shop,Mountaineering Equipment,Safety,Granite Signal Mirror,14515.38,445
+215,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,44422.96,11735
+889,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Belay,60601.8,921
+995,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,72777.22,1986
+968,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Climbing Lamp,27385.74,706
+613,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,61371.6,1194
+479,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Rechargeable Battery,64541.36,8344
+131,United States,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Chalk Bag,19245.24,1091
+552,United States,Web,Outdoors Shop,Mountaineering Equipment,Tools,Granite Ice,87382.4,1162
+838,United States,Web,Outdoors Shop,Mountaineering Equipment,Tools,Granite Hammer,93824.64,1248
+362,United States,Web,Outdoors Shop,Mountaineering Equipment,Tools,Granite Shovel,49155.57,843
+655,United States,Web,Outdoors Shop,Mountaineering Equipment,Tools,Granite Grip,43061.6,2208
+635,United States,Web,Outdoors Shop,Mountaineering Equipment,Tools,Granite Axe,110816.4,2882
+384,United States,Web,Outdoors Shop,Mountaineering Equipment,Tools,Granite Extreme,124305.6,1653
+959,United States,Web,Outdoors Shop,Personal Accessories,Watches,Mountain Man Digital,4076.36,101
+694,United States,Web,Outdoors Shop,Personal Accessories,Watches,Mountain Man Deluxe,13513.3,175
+101,United States,Web,Outdoors Shop,Personal Accessories,Watches,Mountain Man Combination,20953.66,224
+876,United States,Web,Outdoors Shop,Personal Accessories,Watches,Mountain Man Extreme,20553.36,73
+846,United States,Web,Outdoors Shop,Personal Accessories,Watches,Venue,240819,3315
+377,United States,Web,Outdoors Shop,Personal Accessories,Watches,Infinity,185340,816
+852,United States,Web,Outdoors Shop,Personal Accessories,Watches,Lux,109448.4,650
+525,United States,Web,Outdoors Shop,Personal Accessories,Watches,Sam,33091.3,737
+325,United States,Web,Outdoors Shop,Personal Accessories,Watches,TX,538504,2831
+256,United States,Web,Outdoors Shop,Personal Accessories,Watches,Legend,332541,1310
+740,United States,Web,Outdoors Shop,Personal Accessories,Watches,Kodiak,156364.3,1276
+432,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Polar Sun,25752.66,423
+372,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Polar Ice,2640,24
+564,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Polar Extreme,3037.21,21
+387,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Bella,71617.5,1061
+366,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Capri,167371,4370
+443,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Cat Eye,392122.8,12901
+863,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Dante,233334.65,5401
+753,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Fairway,130874.25,6495
+669,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Inferno,177491.05,2758
+969,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Maximus,251785,3108
+270,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Trendi,187065.7,3719
+790,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Zone,496273.5,16185
+453,United States,Web,Outdoors Shop,Personal Accessories,Eyewear,Hawk Eye,48276,1192
+763,United States,Web,Outdoors Shop,Personal Accessories,Knives,Double Edge,5708.5,350
+602,United States,Web,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,91583.14,814
+971,United States,Web,Outdoors Shop,Personal Accessories,Knives,Bear Survival Edge,14574,168
+688,United States,Web,Outdoors Shop,Personal Accessories,Knives,Max Gizmo,64137.8,1679
+370,United States,Web,Outdoors Shop,Personal Accessories,Knives,Pocket Gizmo,54009.4,4427
+379,United States,Web,Outdoors Shop,Personal Accessories,Binoculars,Seeker 50,7689.66,61
+787,United States,Web,Outdoors Shop,Personal Accessories,Binoculars,Seeker Extreme,6868.4,40
+334,United States,Web,Outdoors Shop,Personal Accessories,Binoculars,Seeker Mini,14690.96,182
+534,United States,Web,Outdoors Shop,Personal Accessories,Binoculars,Opera Vision,61380,558
+976,United States,Web,Outdoors Shop,Personal Accessories,Binoculars,Ranger Vision,117920,737
+586,United States,Web,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS,17995.72,164
+123,United States,Web,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,57801.42,171
+814,United States,Web,Outdoors Shop,Personal Accessories,Navigation,Trail Master,53655,147
+825,United States,Web,Outdoors Shop,Personal Accessories,Navigation,Trail Scout,58786,247
+228,United States,Web,Outdoors Shop,Personal Accessories,Navigation,Trail Star,65758,427
+610,United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,1421,203
+603,United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,67980.64,10262
+929,United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2180,436
+927,United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,8666,1781
+107,United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,20247.7,4262
+229,United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,11079.06,1897
+522,United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,5810.72,256
+465,United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2778.3,81
+495,United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Calamine Relief,342,57
+434,United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,1009.39,193
+468,United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,576,96
+828,United States,Web,Eyewear Store,Personal Accessories,Watches,Mountain Man Analog,22682.31,476
+540,United States,Web,Eyewear Store,Personal Accessories,Watches,Venue,48434,677
+930,United States,Web,Eyewear Store,Personal Accessories,Watches,Infinity,104180,454
+281,United States,Web,Eyewear Store,Personal Accessories,Watches,Lux,10577.6,62
+373,United States,Web,Eyewear Store,Personal Accessories,Watches,Sam,4445.1,99
+506,United States,Web,Eyewear Store,Personal Accessories,Watches,TX,278356,1460
+779,United States,Web,Eyewear Store,Personal Accessories,Watches,Legend,153335.2,606
+546,United States,Web,Eyewear Store,Personal Accessories,Watches,Kodiak,26586.3,221
+903,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Polar Sun,34373.06,568
+138,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Polar Ice,17122.6,164
+581,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Polar Sports,9457.88,82
+796,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Polar Wave,5016.29,53
+482,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Polar Extreme,4549.78,31
+531,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Bella,3105,46
+756,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Capri,104980.3,2741
+559,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Cat Eye,140280.6,4845
+639,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Dante,124845.7,2906
+275,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Fairway,47251.75,2345
+827,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Inferno,85425.25,1339
+407,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Maximus,66685,807
+585,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Trendi,119915.2,2384
+620,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Zone,142442.4,4587
+445,United States,Web,Eyewear Store,Personal Accessories,Eyewear,Hawk Eye,24867,614
+870,United States,Web,Eyewear Store,Personal Accessories,Knives,Max Gizmo,37130.4,972
+383,United States,Web,Eyewear Store,Personal Accessories,Knives,Pocket Gizmo,24961.2,2046
+481,United States,Web,Eyewear Store,Personal Accessories,Binoculars,Seeker 35,27513.66,278
+845,United States,Web,Eyewear Store,Personal Accessories,Binoculars,Seeker Extreme,6868.4,40
+758,United States,Web,Eyewear Store,Personal Accessories,Binoculars,Opera Vision,11440,104
+836,United States,Web,Eyewear Store,Personal Accessories,Binoculars,Ranger Vision,57440,359
+652,United States,Web,Eyewear Store,Personal Accessories,Navigation,Glacier GPS,38515.23,351
+775,United States,Web,Eyewear Store,Personal Accessories,Navigation,Trail Master,52925,145
+985,United States,Web,Eyewear Store,Personal Accessories,Navigation,Trail Scout,49504,208
+276,United States,Web,Eyewear Store,Personal Accessories,Navigation,Trail Star,67452,438
+129,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,152601.98,35122
+701,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Canteen,49617.39,5142
+589,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,56777.28,3408
+973,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Cup,11017.89,3139
+854,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,180478.02,3419
+736,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,160602.84,2559
+955,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,196014.84,1374
+414,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Kettle,24705.52,1967
+897,United States,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Utensils,8429.4,446
+450,United States,Web,Sports Store,Camping Equipment,Tents,Star Lite,273813.04,787
+697,United States,Web,Sports Store,Camping Equipment,Tents,Star Dome,438689.28,717
+666,United States,Web,Sports Store,Camping Equipment,Tents,Star Gazer 2,166430.88,304
+213,United States,Web,Sports Store,Camping Equipment,Tents,Star Gazer 3,441668.54,694
+396,United States,Web,Sports Store,Camping Equipment,Tents,Star Gazer 6,125447.8,160
+344,United States,Web,Sports Store,Camping Equipment,Tents,Star Peg,21341.08,10892
+885,United States,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Lite,26335.48,311
+424,United States,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator,240568.86,1743
+744,United States,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,198107.28,1656
+331,United States,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Pad,15022.83,381
+350,United States,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,30668.6,2331
+750,United States,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,124333.86,1266
+279,United States,Web,Sports Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,106067.29,1456
+398,United States,Web,Sports Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,198330.12,738
+641,United States,Web,Sports Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,531978.86,1526
+313,United States,Web,Sports Store,Camping Equipment,Packs,Canyon Mule Extreme Backpack,270989.14,626
+167,United States,Web,Sports Store,Camping Equipment,Packs,Canyon Mule Cooler,135894.72,4163
+269,United States,Web,Sports Store,Camping Equipment,Packs,Canyon Mule Carryall,153656.16,2224
+879,United States,Web,Sports Store,Camping Equipment,Lanterns,Firefly Lite,18428.38,1286
+693,United States,Web,Sports Store,Camping Equipment,Lanterns,Firefly Mapreader,6048.84,379
+549,United States,Web,Sports Store,Camping Equipment,Lanterns,Firefly 2,27034.56,1008
+470,United States,Web,Sports Store,Camping Equipment,Lanterns,Firefly 4,48492.75,1783
+716,United States,Web,Sports Store,Camping Equipment,Lanterns,Firefly Extreme,19631.5,395
+504,United States,Web,Sports Store,Camping Equipment,Lanterns,EverGlow Single,35543.5,1061
+908,United States,Web,Sports Store,Camping Equipment,Lanterns,EverGlow Double,6049.4,116
+920,United States,Web,Sports Store,Camping Equipment,Lanterns,EverGlow Kerosene,76063.2,2460
+699,United States,Web,Sports Store,Camping Equipment,Lanterns,EverGlow Butane,3836.18,59
+708,United States,Web,Sports Store,Camping Equipment,Lanterns,EverGlow Lamp,56344.85,2084
+802,United States,Web,Sports Store,Camping Equipment,Lanterns,Flicker Lantern,41079.18,1202
+510,United States,Web,Sports Store,Personal Accessories,Watches,Mountain Man Analog,37474.11,789
+272,United States,Web,Sports Store,Personal Accessories,Watches,Mountain Man Digital,14857.77,418
+348,United States,Web,Sports Store,Personal Accessories,Watches,Mountain Man Deluxe,40566.13,528
+415,United States,Web,Sports Store,Personal Accessories,Watches,Mountain Man Combination,23171.63,247
+936,United States,Web,Sports Store,Personal Accessories,Watches,Mountain Man Extreme,31786.8,112
+554,United States,Web,Sports Store,Personal Accessories,Watches,Venue,254995,3538
+817,United States,Web,Sports Store,Personal Accessories,Watches,Infinity,211979,932
+395,United States,Web,Sports Store,Personal Accessories,Watches,Lux,102959.2,609
+233,United States,Web,Sports Store,Personal Accessories,Watches,Sam,40634.5,905
+919,United States,Web,Sports Store,Personal Accessories,Watches,TX,590480,3129
+810,United States,Web,Sports Store,Personal Accessories,Watches,Legend,444398.6,1754
+156,United States,Web,Sports Store,Personal Accessories,Watches,Kodiak,241216.3,1969
+767,United States,Web,Sports Store,Personal Accessories,Eyewear,Polar Sun,91931.51,1521
+894,United States,Web,Sports Store,Personal Accessories,Eyewear,Polar Ice,38453.8,364
+950,United States,Web,Sports Store,Personal Accessories,Eyewear,Polar Sports,20069.16,174
+341,United States,Web,Sports Store,Personal Accessories,Eyewear,Bella,86872.5,1287
+489,United States,Web,Sports Store,Personal Accessories,Eyewear,Capri,191576.6,5002
+633,United States,Web,Sports Store,Personal Accessories,Eyewear,Cat Eye,418403.15,14124
+274,United States,Web,Sports Store,Personal Accessories,Eyewear,Dante,259043.35,5999
+532,United States,Web,Sports Store,Personal Accessories,Eyewear,Fairway,209136.85,10379
+126,United States,Web,Sports Store,Personal Accessories,Eyewear,Inferno,237131.85,3689
+803,United States,Web,Sports Store,Personal Accessories,Eyewear,Maximus,314690,3886
+956,United States,Web,Sports Store,Personal Accessories,Eyewear,Trendi,121826.6,2422
+644,United States,Web,Sports Store,Personal Accessories,Eyewear,Zone,638000.5,20710
+277,United States,Web,Sports Store,Personal Accessories,Eyewear,Hawk Eye,100278,2476
+627,United States,Web,Sports Store,Personal Accessories,Knives,Single Edge,282825.38,23514
+769,United States,Web,Sports Store,Personal Accessories,Knives,Double Edge,17062.56,1054
+569,United States,Web,Sports Store,Personal Accessories,Knives,Edge Extreme,65030.78,578
+299,United States,Web,Sports Store,Personal Accessories,Knives,Bear Edge,63587.4,1618
+945,United States,Web,Sports Store,Personal Accessories,Knives,Bear Survival Edge,44469.47,511
+574,United States,Web,Sports Store,Personal Accessories,Knives,Max Gizmo,42325.6,1108
+200,United States,Web,Sports Store,Personal Accessories,Knives,Pocket Gizmo,41309.2,3386
+665,United States,Web,Sports Store,Personal Accessories,Binoculars,Seeker 35,90458.58,914
+964,United States,Web,Sports Store,Personal Accessories,Binoculars,Seeker 50,67946.34,539
+457,United States,Web,Sports Store,Personal Accessories,Binoculars,Seeker Extreme,68340.58,398
+144,United States,Web,Sports Store,Personal Accessories,Binoculars,Seeker Mini,60137.31,747
+980,United States,Web,Sports Store,Personal Accessories,Binoculars,Opera Vision,31350,285
+857,United States,Web,Sports Store,Personal Accessories,Binoculars,Ranger Vision,109600,685
+952,United States,Web,Sports Store,Personal Accessories,Navigation,Glacier Basic,131960.85,4149
+181,United States,Web,Sports Store,Personal Accessories,Navigation,Glacier Deluxe,24475.5,270
+232,United States,Web,Sports Store,Personal Accessories,Navigation,Glacier GPS,143526.84,1308
+719,United States,Web,Sports Store,Personal Accessories,Navigation,Glacier GPS Extreme,154813.16,458
+194,United States,Web,Sports Store,Personal Accessories,Navigation,Trail Master,74095,203
+545,United States,Web,Sports Store,Personal Accessories,Navigation,Trail Scout,87584,368
+970,United States,Web,Sports Store,Personal Accessories,Navigation,Trail Star,62062,403
+257,United States,Web,Sports Store,Outdoor Protection,Insect Repellents,BugShield Spray,13784.56,2332
+170,United States,Web,Sports Store,Outdoor Protection,Insect Repellents,BugShield Lotion,18060.98,2645
+808,United States,Web,Sports Store,Outdoor Protection,Insect Repellents,BugShield Extreme,24109.12,3664
+878,United States,Web,Sports Store,Outdoor Protection,Sunscreen,Sun Blocker,26564.2,5404
+303,United States,Web,Sports Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,15437.65,3177
+500,United States,Web,Sports Store,Outdoor Protection,Sunscreen,Sun Shelter 15,3665.2,748
+909,United States,Web,Sports Store,Outdoor Protection,Sunscreen,Sun Shelter 30,35305.55,7468
+649,United States,Web,Sports Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,10320.8,304
+360,United States,Web,Sports Store,Outdoor Protection,First Aid,Calamine Relief,3102,517
+926,United States,Web,Sports Store,Outdoor Protection,First Aid,Aloe Relief,669.44,128
+556,United States,Web,Sports Store,Outdoor Protection,First Aid,Insect Bite Relief,684,114
+442,United States,Web,Sports Store,Golf Equipment,Irons,Hailstorm Steel Irons,149013.64,373
+324,United States,Web,Sports Store,Golf Equipment,Irons,Hailstorm Titanium Irons,187656.3,215
+858,United States,Web,Sports Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,149586.72,179
+999,United States,Web,Sports Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,363225.28,304
+752,United States,Web,Sports Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,241637.28,362
+815,United States,Web,Sports Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,410282.94,321
+599,United States,Web,Sports Store,Golf Equipment,Putters,Blue Steel Putter,69691.84,828
+642,United States,Web,Sports Store,Golf Equipment,Putters,Blue Steel Max Putter,101534.42,598
+298,United States,Web,Sports Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,4464.04,928
+587,United States,Web,Sports Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,17294.29,1887
+591,United States,Web,Sports Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,162303.43,808
+365,United States,Sales visit,Golf Shop,Golf Equipment,Irons,Hailstorm Titanium Irons,64588.68,74
+619,United States,Sales visit,Golf Shop,Golf Equipment,Woods,Hailstorm Titanium Woods Set,111118.26,93
+555,United States,Sales visit,Golf Shop,Golf Equipment,Putters,Course Pro Putter,55199,764
+859,United States,Sales visit,Golf Shop,Golf Equipment,Putters,Blue Steel Max Putter,40749.6,240
+551,United States,Sales visit,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,22905.28,992
+262,United States,Sales visit,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,55360.76,454
+979,United States,Sales visit,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Utensils,22798.12,1231
+490,United States,Sales visit,Direct Marketing,Camping Equipment,Tents,Star Gazer 2,164788.47,301
+629,United States,Sales visit,Direct Marketing,Camping Equipment,Sleeping Bags,Hibernator Pad,15417.13,391
+494,United States,Sales visit,Direct Marketing,Camping Equipment,Packs,Canyon Mule Carryall,60039.21,869
+743,United States,Sales visit,Direct Marketing,Camping Equipment,Lanterns,Firefly Mapreader,12592.6,797
+422,United States,Sales visit,Direct Marketing,Camping Equipment,Lanterns,Firefly Multi-light,13655.25,525
+996,United States,Sales visit,Direct Marketing,Outdoor Protection,Insect Repellents,BugShield Spray,10054.23,1707
+526,United States,Sales visit,Direct Marketing,Outdoor Protection,Sunscreen,Sun Shield,6995.64,1202
+246,United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,27558.44,226
+458,United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,16691.22,117
+198,United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Dome,91776,150
+804,United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,64695.52,764
+998,United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,82744.36,332
+579,United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,55149.43,461
+349,United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,21507,642
+449,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 50,22710.4,151
+147,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,28397.4,159
+484,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 100,120242.34,369
+216,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 200,115662.72,214
+638,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Safety,Granite Climbing Helmet,97870.92,1407
+114,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness,69348.5,1135
+154,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,155306.8,1502
+830,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Safety,Granite Signal Mirror,16881.48,522
