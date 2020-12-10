@@ -39,10 +39,10 @@ Objective 11
 input: `Rdata/obj10.csv`
 
 Objective 12
-input: `Rdata/obj8.csv`\
+input: `Rdata/obj8.csv` \
 
 ## Directories
 
-`Data`: Original csv files provided by CATCH for the project
-`Rdata`: Data files created with either SQL or Python for analysis in R.
-`SQL_init_data`: Data files used to initialize SQL database for part 3 
+`Data`: Original csv files provided by CATCH for the project \
+`Rdata`: Data files created with either SQL or Python for analysis in R. \
+`SQL_init_data`: Data files used to initialize SQL database for part 3 \
