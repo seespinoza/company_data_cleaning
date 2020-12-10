@@ -23,6 +23,11 @@ output: `SQL_init_data/customer_R_cleaned.csv`\
 Objective 7
 
 # `cleaning_pt_3_SQL.sql`
+Initializing SQL database\
+input: `SQL_init_data/customer_R_cleaned`\
+input: `Data/product_info.csv`\
+input: `Data/purchase_info.csv`  
+
 Objective 6
 
 Objective 8\
