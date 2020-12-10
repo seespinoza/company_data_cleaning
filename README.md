@@ -4,7 +4,10 @@
 
 # `cleaning_pt_1_python.html`
 
-Objective 1
+Objective 1\
+input: `Data/product_info.csv`\
+input: `Data/purchse_info.csv`\
+input: `Data/customers/csv`
 
 Objective 2
 
