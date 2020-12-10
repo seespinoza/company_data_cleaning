@@ -16,7 +16,7 @@ output: `Rdata/customer_py_cleaned.csv`
 ### `cleaning_pt_2_R.html`
 
 Objective 4
-input: `Rdata/customer_py_cleaned.csv`
+input: `Rdata/customer_py_cleaned.csv`\
 input: `Data/product_info.csv`
 
 Objective 7
